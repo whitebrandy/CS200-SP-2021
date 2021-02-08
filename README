@@ -30,6 +30,12 @@ If you are not able to install python for some reason, use the alternative optio
 
    This should create a file called "Yourname".txt with the current date and time in it.
 
+   ___________________
+   Alternative option:
+   -------------------
+   If you can't use the script for some reason, please create a file with your first name; eg:
+   john.txt and enter the current date and time and save it.
+   
 6. Commit the changes to your local repo. Make sure you enter a meaningful commit message
    and in the description for the commit, write down the steps you will execute for this
    assignment.
