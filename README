@@ -23,7 +23,7 @@ If you are not able to install python for some reason, use the alternative optio
    git checkout HEAD -b assignment
 
 4. Add the repo referenced above as "upstream"
-   git remote add upstream github.com/whitebrandy/CS200-Sp-2021
+   git remote add upstream git@github.com:whitebrandy/CS200-Sp-2021
 
 5. Make sure you have python installed and execute:
    python ./create.file.py "Your Name, no spaces please"
@@ -59,11 +59,11 @@ If you are not able to install python for some reason, use the alternative optio
    and refer to the class to check how to create a pull request.
 
 9. Once I have accepted your pull request, go back to your local copy
-   and switch branch to master.
-   git checkout master
+   and switch branch to main.
+   git checkout main
 
-10. Pull new changes that have been merged upstream:
-   git pull
+10. Pull new changes that have been merged in my repo to your main branch:
+   git pull upstream main
 
 11. Identify your commit from the recently pulled changes and then
     send the "commit ID". You can use "git log" for this: For eg:
