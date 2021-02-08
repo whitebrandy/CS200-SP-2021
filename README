@@ -51,18 +51,21 @@ If you are not able to install python for some reason, use the alternative optio
    committed the changes....
    Signed-off-by: Bandan Das <bsd@redhat.com>
 
-7. Go to your project page on github.com and create a pull request (PR)
+7. Push your changes to your github account:
+   git push origin assignment
+
+8. Go to your project page on github.com and create a pull request (PR)
    See https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
    and refer to the class to check how to create a pull request.
 
-8. Once I have accepted your pull request, go back to your local copy
+9. Once I have accepted your pull request, go back to your local copy
    and switch branch to master.
    git checkout master
 
-9. Pull new changes that have been merged upstream:
+10. Pull new changes that have been merged upstream:
    git pull
 
-10. Identify your commit from the recently pulled changes and then
+11. Identify your commit from the recently pulled changes and then
     send the "commit ID". You can use "git log" for this: For eg:
 =====    
     commit 76d01acd57013114977ec77a131fe79d2f542774
