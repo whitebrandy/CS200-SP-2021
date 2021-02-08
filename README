@@ -1,0 +1,76 @@
+Requirements:
+Make sure you have python installed.
+On Linux or Mac, open a terminal and type "python" and
+check if you get a python shell prompt. (Ctrl-D to exit)
+On Windows, type cmd to open terminal and then try "python"
+or python.exe
+
+Usage:
+First, make sure you have python in your shell path. It should already be on Linux and Mac.
+On Windows, please follow instructions at https://realpython.com/installing-python/ to see if
+you already have it installed and how to install it.
+
+If you are not able to install python for some reason, use the alternative option described below.
+
+1. Go to github.com/whitebrandy/CS200-Sp-2021 and click the "Fork" button at the right side of the screen.
+
+2. Once you have a forked copy, clone it into your local system
+   git clone git@github.com:yourusername/CS200-SP-2021
+   where yourusername is your github username
+
+3. cd into the newly cloned repo and create a new branch:
+   cd CS200-SP-2021
+   git checkout HEAD -b assignment
+
+4. Add the repo referenced above as "upstream"
+   git remote add upstream github.com/whitebrandy/CS200-Sp-2021
+
+5. Make sure you have python installed and execute:
+   python ./create.file.py "Your Name, no spaces please"
+
+   This should create a file called "Yourname".txt with the current date and time in it.
+
+6. Commit the changes to your local repo. Make sure you enter a meaningful commit message
+   and in the description for the commit, write down the steps you will execute for this
+   assignment.
+   Also, please make sure to add a signed-off-by line.
+   
+   git add filename
+   git commit -s
+   <<opens up an editor>>
+   CS200 Assignment
+
+   I cloned a repo from github and then I added a new file by
+   executing the python script. Then, I added the new file and then
+   committed the changes....
+   Signed-off-by: Bandan Das <bsd@redhat.com>
+
+7. Go to your project page on github.com and create a pull request (PR)
+   See https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request
+   and refer to the class to check how to create a pull request.
+
+8. Once I have accepted your pull request, go back to your local copy
+   and switch branch to master.
+   git checkout master
+
+9. Pull new changes that have been merged upstream:
+   git pull
+
+10. Identify your commit from the recently pulled changes and then
+    send the "commit ID". You can use "git log" for this: For eg:
+=====    
+    commit 76d01acd57013114977ec77a131fe79d2f542774
+    Author: Bandan Das <bsd@redhat.com>
+    Date:   Thu Apr 2 18:31:35 2020 -0700
+
+    CS200  Assignment
+
+   I cloned a repo from github and then I added a new file by
+   executing the python script. Then, I added the new file and then
+   committed the changes....
+
+   Signed-off-by: Bandan Das <bsd@redhat.com>
+=====
+
+   The commit id is 76d01acd57013114977ec77a131fe79d2f542774
+   
