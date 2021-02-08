@@ -12,7 +12,7 @@ you already have it installed and how to install it.
 
 If you are not able to install python for some reason, use the alternative option described below.
 
-1. Go to github.com/whitebrandy/CS200-Sp-2021 and click the "Fork" button at the right side of the screen.
+1. Go to github.com/whitebrandy/CS200-SP-2021 and click the "Fork" button at the right side of the screen.
 
 2. Once you have a forked copy, clone it into your local system
    git clone git@github.com:yourusername/CS200-SP-2021
@@ -23,7 +23,7 @@ If you are not able to install python for some reason, use the alternative optio
    git checkout HEAD -b assignment
 
 4. Add the repo referenced above as "upstream"
-   git remote add upstream git@github.com:whitebrandy/CS200-Sp-2021
+   git remote add upstream git@github.com:whitebrandy/CS200-SP-2021
 
 5. Make sure you have python installed and execute:
    python ./create.file.py "Your Name, no spaces please"
