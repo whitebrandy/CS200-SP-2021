@@ -69,20 +69,18 @@ If you are not able to install python for some reason, use the alternative optio
     git pull upstream main
 
 11. Identify your commit from the recently pulled changes and then
-    send the "commit ID". You can use "git log" for this: For eg:
-=====    
-    commit 76d01acd57013114977ec77a131fe79d2f542774
-    Author: Bandan Das <bsd@redhat.com>
-    Date:   Thu Apr 2 18:31:35 2020 -0700
+    send the "commit ID" for the "MERGE REQUEST". You can use "git log" for this: For eg:
+=====
+commit e91d5130f48133f8da12e0ca44eacd43cc164e15 (HEAD -> main, upstream/main)
+Merge: 2d617ce c9d47b6
+Author: Bandan Das <bsd@makefile.in>
+Date:   Wed Feb 10 14:19:57 2021 -0500
 
-    CS200  Assignment
+    Merge pull request #2 from Assignmentbdas/assignment
+    
+    CS200 Assignment
 
-   I cloned a repo from github and then I added a new file by
-   executing the python script. Then, I added the new file and then
-   committed the changes....
-
-   Signed-off-by: Bandan Das <bsd@redhat.com>
 =====
 
-   The commit id is 76d01acd57013114977ec77a131fe79d2f542774
+   The commit id is e91d5130f48133f8da12e0ca44eacd43cc164e15
    
