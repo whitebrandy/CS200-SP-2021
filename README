@@ -15,7 +15,7 @@ If you are not able to install python for some reason, use the alternative optio
 1. Go to github.com/whitebrandy/CS200-SP-2021 and click the "Fork" button at the right side of the screen.
 
 2. Once you have a forked copy, clone it into your local system
-   git clone git@github.com:yourusername/CS200-SP-2021
+   git clone git@github.com:<yourusername>/CS200-SP-2021
    where yourusername is your github username
 
 3. cd into the newly cloned repo and create a new branch:
@@ -62,8 +62,11 @@ If you are not able to install python for some reason, use the alternative optio
    and switch branch to main.
    git checkout main
 
-10. Pull new changes that have been merged in my repo to your main branch:
-   git pull upstream main
+10. Pull new changes that have been merged in my repo to your main branch.
+    Please not that you have to give it some time in case there are changes
+    that I have to merge manually.
+
+    git pull upstream main
 
 11. Identify your commit from the recently pulled changes and then
     send the "commit ID". You can use "git log" for this: For eg:
