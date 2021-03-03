@@ -30,7 +30,7 @@ The Engineering Steering Committe, also known as the "ESC", is one of the first 
 
 #### Advisory Board
 
-Inside of LibreOffice, there exists also an advisory board with a forum for different organizations to provide financial or other means of support (like technical proposals and strategic technical advice). All of these logistics and pre-determinations are lead by the BoD. It is also possible to meet with the BoD, and these members of their advisory board also provides help to the project. Thhese different groups and companies basically represent The Document Foundation's supporters and to provide the BoD with as much help as possible to better the LibreOffice project. Some of the memebrs that are part of the Advisory Board include: **Gnome, Google, SPI, FSF, Kopano b.v., allotropia software GmbH, Adfinis SyGroup, RedHat, etc.**
+Inside of LibreOffice, there exists also an advisory board with a forum for different organizations to provide financial or other means of support (like technical proposals and strategic technical advice). All of these logistics and pre-determinations are lead by the BoD. It is also possible to meet with the BoD, and these members of their advisory board also provide help to the project, or tasks related to the project. Some of the memebrs that are part of the Advisory Board include: **Gnome, Google, SPI, FSF, Kopano b.v., allotropia software GmbH, Adfinis SyGroup, RedHat, etc.**
 
 #### Sources
 
