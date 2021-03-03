@@ -12,13 +12,13 @@ users to perform office tasks such as write and edit documents, create spreadshe
 
 ### The Document Foundation (Governance)
 
-Given that LibreOffice is a free and open source software, when talking about the different toles in the company, it is important to also talk about their governance. As mentioned prior, they are a project originally from the The Document Foundation, which itself is also managed by several entities:
+Given that LibreOffice is a free and open source software, when talking about the different roles in the company, it is important to also talk about their governance. As mentioned prior, they are a project originally from The Document Foundation, which itself is also managed by several entities:
 
 - The Board of Directors (or "BoD"): judicial and extrajudicial representatives
-- The Membership Committee (or "MC"): oversee electio of BoD. Manage and oversee membership applications and renewals
+- The Membership Committee (or "MC"): oversees elections of BoD. Manage and oversee membership applications and renewals
 - The Board of Trustees (or "Members"): active contributers to the project
 
-The importance of their governance is that given its nature of being open-source, n reality, LibreOffice is run by both the community and the different bodies that compose the Document Foundation. 
+The importance of their governance is that given its nature of being open-source, but in reality, LibreOffice is run by both the community and the different bodies that compose the Document Foundation. 
 
 #### Members
 
@@ -26,11 +26,11 @@ Anyone can join the TDF and become a member. You can find the entire list of all
 
 #### Engineering Steering Committe
 
-The Engineering Steering Committe, also known as the "ESC", is one of the first pillars of LibreOffice, but it is not itself part of the three bodies such as the BoD, MC and Members that compose the Document Foundation. Summarized, the ESC is the group within LibreOffice consists of their many engineers, all with the task of providing technological advice and strategizing on specific matters in order to achieve numerous end goals to better the different projects carried out by the TDF and/or LibreOffice.
+The Engineering Steering Committe, also known as the "ESC", is one of the first pillars of LibreOffice, but it is not itself part of the three bodies such as the BoD, MC and Members that compose the Document Foundation. Summarized, the ESC is the group within LibreOffice that consists of many engineers with numerous and diverse backgrounds, all with the task of providing technological advice and strategizing on specific matters in order to achieve numerous end goals to better the different projects carried out by the TDF and/or LibreOffice.
 
 #### Advisory Board
 
-Inside of LibreOffice, there exists also an advisory board with a forum for different organizations to privide financial or other means of support (like technical proposals and strategic technical advice). All of these logistics and pre-determinations are lead by the as determined the BoD. It is also possible  to meet with the BoD, and these members of their advisory board also provides help to the project. Thhese different groups and companies basically represent The Document Foundation's supporters and to provide the BoD with as much help as possible to better the LibreOffice project. Some of the memebrs that are part of the Advisory Board include: **Gnome, Google, SPI, FSF, Kopano b.v., allotropia software GmbH, Adfinis SyGroup, RedHat, etc.**
+Inside of LibreOffice, there exists also an advisory board with a forum for different organizations to provide financial or other means of support (like technical proposals and strategic technical advice). All of these logistics and pre-determinations are lead by the BoD. It is also possible to meet with the BoD, and these members of their advisory board also provides help to the project. Thhese different groups and companies basically represent The Document Foundation's supporters and to provide the BoD with as much help as possible to better the LibreOffice project. Some of the memebrs that are part of the Advisory Board include: **Gnome, Google, SPI, FSF, Kopano b.v., allotropia software GmbH, Adfinis SyGroup, RedHat, etc.**
 
 #### Sources
 
